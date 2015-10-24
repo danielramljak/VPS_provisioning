@@ -8,6 +8,9 @@
   <packaging>pom</packaging>
   <name>VPS-TEST</name>
   <description></description>
+  <modules>
+    <module>NEW_VPS</module>
+  </modules>
   <repositories>
     <repository>
       <id>guvnor-m2-repo</id>
